@@ -1,6 +1,7 @@
 NLW Journey - Trilha HTML, CSS e JavaScript | 08/07/2024 a 11/07/2024
 -------------------
-Aula 01:
+[Aula 01](aula-01/)
+
 HTML
  - Hypertext
  - Markup (tags, elementos)
@@ -38,7 +39,8 @@ Fases de resolução de problemas
 03. Apresentar dados
 
 -------------------
-Aula 02:
+[Aula 02](aula-02/)
+
 HTML
  - Criação do formulário
  - Ítens de formulário
