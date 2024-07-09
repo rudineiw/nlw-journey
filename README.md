@@ -38,7 +38,6 @@
 02. Processar dados
 03. Apresentar dados
 
--------------------
 ## [Aula 02](aula-02/)
 
 ### HTML
