@@ -1,8 +1,8 @@
-NLW Journey - Trilha HTML, CSS e JavaScript | 08/07/2024 a 11/07/2024
--------------------
-[Aula 01](aula-01/)
+# NLW Journey - Trilha HTML, CSS e JavaScript | 08/07/2024 a 11/07/2024
 
-HTML
+## [Aula 01](aula-01/)
+
+### HTML
  - Hypertext
  - Markup (tags, elementos)
  - Language
@@ -10,16 +10,16 @@ HTML
  Linguagem de marcação de texto.
  OBS: HTML não é uma linguagem de programação.
 
- css
+### CSS
  - Cascading Style Sheet (Folha de estilo em cascata).
 
- JavaScript
+### JavaScript
  - Interpretada pelo bowser
  - Dinâmica
  - Orientada a objeto
  - ECMASript trazendo inovações
 
- Conceitos fundamentais de programação
+### Conceitos fundamentais de programação
  - Comentários
  - Declaração de variáveis (const, let)
  - Operadores (atribuição, concatenação, comparação, matemáticos)
@@ -30,22 +30,22 @@ HTML
  - Manipulação e gestão de dados
     - Conversão de dados
 
-Algorítmos
+### Algorítmos
  - Sequência de passos lógicos e finita para resolução um problema
 
-Fases de resolução de problemas
+### Fases de resolução de problemas
 01. Coletar dados
 02. Processar dados
 03. Apresentar dados
 
 -------------------
-[Aula 02](aula-02/)
+## [Aula 02](aula-02/)
 
-HTML
+### HTML
  - Criação do formulário
  - Ítens de formulário
 
-JavaScript
+### JavaScript
  - Salvar ítens de formulário
  - Controles para evitar valvar mesmo dia e hora
  - Criação da lista de horas com um for tradicional
