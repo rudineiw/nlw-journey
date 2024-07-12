@@ -50,6 +50,6 @@
  - Criação da lista de horas com um for tradicional
  - Como marcar uma atividade como conluída ou não e salvar
 
-## [Aula 02](aula-03/)
+## [Aula 03](aula-03/)
 
 Finalização do projeto com estilização CSS.
